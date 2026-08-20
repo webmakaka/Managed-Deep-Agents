@@ -30,7 +30,12 @@ https://www.youtube.com/watch?v=L54dR9qMKzc
 
 ```bash
 $ sudo apt install -y python3-pip
-$ pip install uv
+# $ pip install uv
+$ pip install uv --break-system-packages
+$ export PATH="$HOME/.local/bin:$PATH"
+
+$ cd agents
+
 $ uv venv --python=python3.12
 $ source .venv/bin/activate
 ```
@@ -48,7 +53,10 @@ $ uv tool install managed-deepagents
 <br/>
 
 ```bash
-$ cd agents
+
 $ mda init research-assistant
+
+│  View raw prompt
+
 $ cd research-assistant
 ```
