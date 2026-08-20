@@ -74,3 +74,10 @@ https://www.youtube.com/watch?v=8HIoZV7qlwA
 ### Skills
 
 https://www.youtube.com/watch?v=Lhru0yMI2as
+
+
+<br/>
+
+### Tools
+
+https://www.youtube.com/watch?v=piBwvWgHqkY
