@@ -67,3 +67,10 @@ $ cd research-assistant
 ### Instructions and Context Hub
 
 https://www.youtube.com/watch?v=8HIoZV7qlwA
+
+
+<br/>
+
+### Skills
+
+https://www.youtube.com/watch?v=Lhru0yMI2as
