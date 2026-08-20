@@ -60,3 +60,10 @@ $ mda init research-assistant
 
 $ cd research-assistant
 ```
+
+
+<br/>
+
+### Instructions and Context Hub
+
+https://www.youtube.com/watch?v=8HIoZV7qlwA
